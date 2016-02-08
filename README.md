@@ -8,6 +8,8 @@ Convert REAL to TEXT, the old (bad?) way.
 |:------:|:-----:|:---------:|:---------:|
 |🆗|🆗|🆗|🆗|
 
+**Note**: Since 14R3, the ``String`` function takes 13 digits instead of 15 (the internal size) to avoid unintended rounding.
+
 Commands
 ---
 
